@@ -5,7 +5,7 @@
 
 😴 Always Sleepy.
 
-🎨 Favorite Color Pink & Blue
+🎨 Favorite Colors Pink & Blue
 
 🌑 Mostly awake in the Night
 

@@ -29,3 +29,4 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Kiramily&theme=dracula&count_private=true)
 ![GitHub metrics](https://metrics.lecoq.io/Kiramily?base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1)
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kiramily)
